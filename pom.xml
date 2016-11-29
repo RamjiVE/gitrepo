@@ -3,7 +3,7 @@
 
   <groupId>com.ram</groupId>
   <artifactId>ramdemo</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.6-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>ramdemo</name>
   <url>http://maven.apache.org</url>
@@ -11,7 +11,7 @@
 		<url>https://github.com/RamjiVE/gitrepo.git</url>
 		<connection>scm:git:http://github.com/RamjiVE/gitrepo.git</connection>
 		<developerConnection>scm:git:git@github.com:RamjiVE/gitrepo.git</developerConnection>
-	  <tag>ramdemo-1.0.6</tag>
+	 
   </scm>
 
   <properties>
